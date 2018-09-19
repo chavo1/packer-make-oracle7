@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Content-Length: 2734
+Content-Type: text/html
+ETag: "aaeac8cafcaa6d2b4bc10ac3dc473356:1536792461"
+Last-Modified: Wed, 12 Sep 2018 20:34:06 GMT
+Server: AkamaiNetStorage
+Date: Wed, 19 Sep 2018 17:08:40 GMT
+Connection: keep-alive
+
